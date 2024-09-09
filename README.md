@@ -1,3 +1,14 @@
+# SocialAI: A Full-Stack Generative AI based Social Network
+
+●	Used OpenAI’s Dall-E 3 to assist users to generate images based on prompts and update posts
+
+●	Improved the authentication using token based registration/login/logout flow with React Router v4 and server-side user authentication with JWT
+
+●	Launched a scalable web service in Go to handle posts and deployed to Google App Engine
+
+●	Used ElasticSearch (deployed to GCE) to provide search functions such that users can search recent posts and list personal posts
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
