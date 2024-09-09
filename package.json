@@ -3,13 +3,26 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "antd": "^4.24.16",
+    "axios": "^1.6.7",
+    "http-proxy-middleware": "^3.0.0",
+    "openai": "^4.56.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-photo-album": "^2.3.1",
+    "react-router-dom": "^6.26.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "styled-components": "^6.1.12",
+    "web-vitals": "^2.1.4",
+    "yet-another-react-lightbox": "^3.19.0"
   },
   "scripts": {
     "start": "react-scripts start",
